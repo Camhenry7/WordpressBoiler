@@ -9,6 +9,7 @@
  * Learn more: http://codex.wordpress.org/Template_Hierarchy
  *
  * @package Alpha West
+ * David Gobaud
  */
 
 get_header(); ?>
